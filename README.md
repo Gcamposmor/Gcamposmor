@@ -1,16 +1,19 @@
-## Hi there 👋
+# Guillermo Campos Morollón
 
-<!--
-**Gcamposmor/Gcamposmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último curso de Ingeniería Informática en Tecnologías de la Información (Universidad de Oviedo, EPI Gijón), en modalidad bilingüe.
 
-Here are some ideas to get you started:
+## En qué ando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi TFG trata sobre aprendizaje automático aplicado a engranajes planetarios. Me interesan la IA, los sistemas y la infraestructura (Linux, Docker, Kubernetes).
+
+## Tecnologías con las que he trabajado
+
+Python, Java, SQL/PostgreSQL, scikit-learn, FastAPI, Docker, Kubernetes, Linux (Debian), Git.
+
+## Proyectos
+
+Mis repositorios están en privado. Si te interesa ver alguno, escríbeme y te doy acceso.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/guillermo-c-morollon) · g.campos.morollon@gmail.com
